@@ -13,3 +13,5 @@ Namely:
 5. 📚 **Machines Learning Resources** - okay, this is cool, how can I learn all of this?
 
 See the [full interactive version](https://dbourke.link/mlmap).
+
+[Video walkthrough coming July 12](https://youtu.be/pHiMN_gy9mk).

@@ -14,4 +14,4 @@ Namely:
 
 See the [full interactive version](https://dbourke.link/mlmap).
 
-[Video walkthrough coming July 12](https://youtu.be/pHiMN_gy9mk).
+[Watch a feature-length film video walkthrough](https://youtu.be/pHiMN_gy9mk) (yes, really, it's longer than most movies).

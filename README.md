@@ -15,3 +15,5 @@ Namely:
 See the [full interactive version](https://dbourke.link/mlmap).
 
 [Watch a feature-length film video walkthrough](https://youtu.be/pHiMN_gy9mk) (yes, really, it's longer than most movies).
+
+Many of the materials in this roadmap were inspired by [Daniel Formoso](https://github.com/dformoso)'s [machine learning mindmaps](https://github.com/dformoso/machine-learning-mindmap),so if you enjoyed this one, go and check out his. He also has a mindmap specifically for [deep learning](https://github.com/dformoso/deeplearning-mindmap) too.

@@ -1,4 +1,4 @@
-# 2020 Machine Learning Roadmap (still valid for 2021) 
+# 2020 Machine Learning Roadmap (still valid for 2022) 
 
 ![2020 machine learning roadmap overview](https://raw.githubusercontent.com/mrdbourke/machine-learning-roadmap/master/2020-ml-roadmap-overview.png?token=AD7ZOCOIG7IZXHDL63W6RZK7A3B6I)
 
